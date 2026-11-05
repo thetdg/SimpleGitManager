@@ -12,7 +12,7 @@
 set -euo pipefail
 
 APP="git-helper"
-TITLE="Git Helper"
+TITLE="Barsha's Git Helper"
 VERSION="${1:-1.0.0}"
 MAINTAINER="${MAINTAINER:-Git Helper Maintainer <thetdg@live.com>}"
 
